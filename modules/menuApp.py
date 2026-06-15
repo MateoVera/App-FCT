@@ -105,8 +105,8 @@ def muestra_pantalla_principal():
     ### 🚀 **Instrucciones de uso**
 
     1. **Inicia el entorno** seleccionando o creando una base de datos en *Configuración de la base de datos*.
-    2. **Calcula y autoriza** los grupos propuestos por el sistema en *Cálculo de grupos*.
-    3. **Visualiza la logística espacial** y descarga los documentos finales en la sección de *Análisis*.
+    2. **Calcula y autoriza** los grupos propuestos por el sistema y descarga la **Tabla Azul** en *Cálculo de grupos*.
+    3. **Visualiza la logística espacial** en la sección de *Análisis*.
     """, unsafe_allow_html = True)
 
     st.markdown("""
